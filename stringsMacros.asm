@@ -1,10 +1,7 @@
-TITLE Project 6 - Portfolio Project     (Proj6_mccuenr.asm)
+TITLE Project 6 - String Primitives and Macros
 
 ; Author: Russ McCuen
-; Last Modified: 12/05/2021
-; OSU email address: mccuenr@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number:    6            Due Date: 12/05/2021
+; 
 ; Description: Implements and tests two macros for string processing:
 ;			   mGetString - displays prompt & gets user's input into memory location
 ;              mDisplayString - prints the string which is stored in specified memory location
